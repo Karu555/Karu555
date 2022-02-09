@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karu555&label=Profile%20views&color=0e75b6&style=flat" alt="karu555" /> </p>
 
 - 🌱 I’m currently learning **MERN stack at Masai School, Bengaluru, Karnataka**
-- 
+
 - ⌨️ Programming: HTML, CSS, JavaScript, ExpressJS, MongoDB, NodeJS, ReactJS
 
 - 📫 How to reach me **karunesh029@gmail.com**
